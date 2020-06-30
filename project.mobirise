@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "Site-06-30_1407",
+    "name": "test1-clone",
     "currentPage": "index.html",
     "theme": {
       "name": "mobirise-amp",
@@ -42,7 +42,7 @@
       "colorText": "#a7a7a7",
       "colorLink": "#149dcc",
       "underlineLink": false,
-      "text": "By continuing you agree to our <a href='terms.html'>Terms of Service</a> and <a href='policy.html'>Privacy Policy</a>."
+      "text": "Genom att fortsätta godkänner du vårt <a href='terms.html'>Användarvillkor</a> och <a href='policy.html'>Integritetspolicy</a>."
     },
     "cookiesAlert": {
       "customDialogSelector": false,
@@ -53,8 +53,8 @@
       "underlineLink": true,
       "opacity": "99",
       "opacityOverlay": "80",
-      "text": "We use cookies to give you the best experience. Read our <a href='privacy.html'>cookie policy</a>.",
-      "textButton": "Agree"
+      "text": "Vi använder cookies för att ge dig den bästa upplevelsen. Läs vår <a href='privacy.html'>cookie policy</a>.",
+      "textButton": "Hålla med"
     },
     "sitemapSwitcher": false,
     "siteUrl": false,
